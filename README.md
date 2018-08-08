@@ -41,8 +41,8 @@ período de tempo. Possibilita a manutenção e acompanhamento de diferentes mer
 
 <h4>Screenshot</h4>
 
-<a href="https://postimg.cc/image/r586fl6kx/" target="_blank">
-<img src="https://postimg.cc/image/r586fl6kx/" alt="kanban"/>
+<a href="https://s8.postimg.cc/5it5yk80l/etoro_markets.png" target="_blank">
+<img src="https://s8.postimg.cc/5it5yk80l/etoro_markets.png" alt="kanban"/>
 </a>
 
 <a href='https://s8.postimg.cc/5it5yk80l/etoro_markets.png' target='_blank'>
