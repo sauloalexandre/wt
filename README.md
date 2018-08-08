@@ -38,7 +38,7 @@ período de tempo. Possibilita a manutenção e acompanhamento de diferentes mer
 <br><strong>Ratchet</strong> - biblioteca php que permite construir servidor de webSocket;
 <br><strong>mySql</strong> - banco de dados gratuito que atende aos requisitos necessários da aplicação;
 <br><strong>jQuery</strong> - biblioteca javascript que permite criar eventos personalizados e que possui bastante documentação disponível;
-<br><strong>Ajax</strong> - técnica aplicada para fazer carregamento de informações dinamicamente na página;
+<br><strong>Ajax</strong> - técnica aplicada para fazer carregamento de informações sob demanda,evitando recarregar a página;
 
 <h3>Fluxo principal</h3>
 <br>1. Usuário efetua o cadastro;
