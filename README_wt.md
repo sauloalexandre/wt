@@ -14,7 +14,7 @@ período de tempo. Possibilita a manutenção e acompanhamento de diferentes mer
 <br><strong>RF6.</strong> O sistema deve apresentar no gráfico do dashboard, 1 linha para cada mercado acompanhado pelo usuário, mostrando a variação no período;
 <br><strong>RF7.</strong> O sistema deve apresentar na tela as informações mais atualizadas disponíveis para os mercados acompanhados pelo usuário;
 <br><strong>RF8.</strong> Os filtros aplicados no dashboard, devem refletir tanto no gráfico como nas caixas dos mercados acompanhados;
-<br><strong>RF9.</strong> O sistema deve apresentar ao final da página, os valores pertencentes ao usuário, dispostos na seguintes fórmula: valores disponíveis na conta do usuário + valores alocados + lucro = valor total;
+<br><strong>RF9.</strong> O sistema deve apresentar ao final da página, o saldo pertencente ao usuário, dispostos na seguintes fórmula: valores disponíveis na conta do usuário + valores alocados + lucro = valor total;
 <br><strong>RF10.</strong> O sistema deve apresentar no gráfico do dashboard uma linha correspondente ao desempenho da carteira do usuário comparada aos diferentes mercados monitorados;
 <br><strong>RF11.</strong> O sistema deve apresentar no dashboard uma caixa correspondente ao desempenho da carteira do usuário,
 mostrando o desempenho em % e valores no período selecionado;
@@ -60,4 +60,7 @@ mostrando o desempenho em % e valores no período selecionado;
 <a href='https://s8.postimg.cc/93p1hua05/etoro_markets.png' target='_blank'>
      <img src='https://s8.postimg.cc/93p1hua05/etoro_markets.png' border='0' alt='caixas'/>
 </a>
-<br/><br/>
+<br>
+<a href='https://s8.postimg.cc/6ezccdv11/etoro_saldo.png' target='_blank'>
+     <img src='https://s8.postimg.cc/6ezccdv11/etoro_saldo.png' border='0' alt='caixas'/>
+</a>
