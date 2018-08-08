@@ -33,7 +33,7 @@ período de tempo. Possibilita a manutenção e acompanhamento de diferentes mer
 
 
 <h3>Tecnologias propostas</h3>
-<strong>HighCharts</strong> - biblioteca gráfica javascript, que permite criar gráficos fornecendo dados em jSon e transferindo o processamento para a máquina do usuário;
+<strong>HighCharts</strong> - biblioteca gráfica javascript, que permite criar gráficos transferindo o processamento para a máquina do usuário;
 <br><strong>Php</strong> - linguagem backend com bastante documentação disponível e que permite criar scripts e webServices;
 <br><strong>Ratchet</strong> - biblioteca php que permite construir servidor de webSocket;
 <br><strong>mySql</strong> - banco de dados gratuito que atende aos requisitos necessários da aplicação;
