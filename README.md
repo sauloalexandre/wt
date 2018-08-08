@@ -41,11 +41,11 @@ período de tempo. Possibilita a manutenção e acompanhamento de diferentes mer
 
 <h4>Screenshot</h4>
 
-<a href="https://s8.postimg.cc/5it5yk80l/etoro_markets.png" target="_blank">
-<img src="https://s8.postimg.cc/5it5yk80l/etoro_markets.png" alt="kanban"/>
+<a href="https://s8.postimg.cc/7fpw2xgmd/market.png" target="_blank">
+<img src="https://s8.postimg.cc/7fpw2xgmd/market.png" alt="grafico"/>
 </a>
 <br>
 <a href='https://s8.postimg.cc/93p1hua05/etoro_markets.png' target='_blank'>
-     <img src='https://s8.postimg.cc/93p1hua05/etoro_markets.png' border='0' alt='etoro_markets'/>
+     <img src='https://s8.postimg.cc/93p1hua05/etoro_markets.png' border='0' alt='caixas'/>
 </a>
 <br/><br/>
