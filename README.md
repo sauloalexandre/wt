@@ -42,10 +42,10 @@ período de tempo. Possibilita a manutenção e acompanhamento de diferentes mer
 <h4>Screenshot</h4>
 
 <a href="https://postimg.cc/image/r586fl6kx/" target="_blank">
-<img src="https://s33.postimg.cc/r586fl6kx/etoro_markets.png?dl=1" alt="kanban"/>
+<img src="https://postimg.cc/image/r586fl6kx/" alt="kanban"/>
 </a>
 
-<a href='https://postimg.cc/image/x7ft64sgx/' target='_blank'>
+<a href='https://s8.postimg.cc/5it5yk80l/etoro_markets.png' target='_blank'>
      <img src='https://s8.postimg.cc/5it5yk80l/etoro_markets.png' border='0' alt='etoro_markets'/>
 </a>
 <br/><br/>
