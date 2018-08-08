@@ -45,7 +45,7 @@ mostrando o desempenho em % e valores no período selecionado;
 <h3>Tecnologias propostas</h3>
 <strong>HighCharts</strong> - biblioteca gráfica javascript, que permite criar gráficos transferindo o processamento para a máquina do usuário;
 <br><strong>Php</strong> - linguagem backend com bastante documentação disponível e que permite criar scripts e webServices;
-<br><strong>Ratchet</strong> - biblioteca php que permite construir servidor de webSocket;
+<br><strong>Ratchet</strong> - biblioteca php que permite construir servidor de webSocket, com documentação disponível;
 <br><strong>mySql</strong> - banco de dados gratuito que atende aos requisitos necessários da aplicação;
 <br><strong>jQuery</strong> - biblioteca javascript que permite criar eventos personalizados e que possui bastante documentação disponível;
 <br><strong>Ajax</strong> - técnica aplicada para fazer carregamento de informações sob demanda,evitando recarregar a página;
