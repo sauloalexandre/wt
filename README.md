@@ -14,6 +14,10 @@ período de tempo. Possibilita a manutenção e acompanhamento de diferentes mer
 <br><strong>RF6.</strong> O sistema deve apresentar no gráfico do dashboard, 1 linha para cada mercado acompanhado pelo usuário, mostrando a variação no período;
 <br><strong>RF7.</strong> O sistema deve apresentar na tela as informações mais atualizadas disponíveis para os mercados acompanhados pelo usuário;
 <br><strong>RF8.</strong> Os filtros aplicados no dashboard, devem refletir tanto no gráfico como nas caixas dos mercados acompanhados;
+<br><strong>RF9.</strong> O sistema deve apresentar ao final da página, os valores pertencentes ao usuário, dispostos na seguintes fórmula: valores disponíveis na conta do usuário + valores alocados + lucro = valor total;
+<br><strong>RF10.</strong> O sistema deve apresentar no gráfico do dashboard uma linha correspondente ao desempenho da carteira do usuário comparada aos diferentes mercados monitorados;
+<br><strong>RF11.</strong> O sistema deve apresentar no dashboard uma caixa correspondente ao desempenho da carteira do usuário,
+mostrando o desempenho em % e valores no período selecionado;
 
 <h3>Requisitos não funcionais</h3>
 <strong>RNF1.</strong> Nas caixas do dashboard, o sistema deve apresentar as variações dos mercados utilizando respectivamente as cores
@@ -28,8 +32,8 @@ período de tempo. Possibilita a manutenção e acompanhamento de diferentes mer
 <h3>Regras de negócio</h3>
 <strong>RN1.</strong> A login no cadastros dos usuários deve ser o email;
 <br><strong>RN2.</strong> Não podem existir 2 usuários cadastrados com o mesmo email;
-<br><strong>RN3.</strong> A utilização de webSocket para a atualização dos dados no dashboard, evita requisições ao servidor e transfere o processamento
-     para a máquina do usuário, estabelecendo uma comunicação em 2 vias entre cliente e servidor;
+<br><strong>RN3.</strong> Utilizar webSocket para a atualização dos dados no dashboard, evitando requisições ao servidor e transferindo o processamento para a máquina do usuário, estabelecendo uma comunicação em 2 vias entre cliente e servidor;
+<br><strong>RN4.</strong> Os valores apresentados na fórmula ao final do dashboard são referentes ao desempenho da carteira do usuário e devem apresentar os valores proporcionais a alocação;
 
 
 <h3>Tecnologias propostas</h3>
