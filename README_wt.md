@@ -37,6 +37,11 @@ mostrando o desempenho em % e valores no período selecionado;
 <br><strong>RN5.</strong> Os webServices disponibilizados pelo sistema para integração com sistemas terceiros, devem possuir acesso restrito e sua liberação deve ser controlada, garantindo a segurança e confidencialidade das informações;
 
 
+<h3>Desafios esperados</h3>
++ obtenção dos dados referente a mercados;
+<br>+ configuração do webSocket no servidor;
+<br>+ obtenção dos valores proporcionais referentes a alocação da carteira do usuário nos diferentes mercados ao longo do tempo;
+
 <h3>Tecnologias propostas</h3>
 <strong>HighCharts</strong> - biblioteca gráfica javascript, que permite criar gráficos transferindo o processamento para a máquina do usuário;
 <br><strong>Php</strong> - linguagem backend com bastante documentação disponível e que permite criar scripts e webServices;
