@@ -45,11 +45,10 @@ mostrando o desempenho em % e valores no período selecionado;
 <br><strong>Ajax</strong> - técnica aplicada para fazer carregamento de informações sob demanda,evitando recarregar a página;
 
 <h3>Fluxo principal</h3>
-<br>1. Usuário efetua o cadastro;
-<br>2. Usuário efetua o login;
-<br>3. Usuário visualiza os mercados previamente cadastrados na sua dashboard;
-<br>4. Usuário opta por selecione determinado período para visualização a variação dos mercado no período desejado;
-<br>5. Sistema apresenta no dashboard, de maneiura gráfica e textual, a variação dos mercados no período selecionado;
+<br>1 Usuário efetua o login;
+<br>2. Sistema apresenta os mercados previamente cadastrados no dashboard, juntamente com informações sobre a carteira do usuário;
+<br>3. Usuário opta por selecione determinado período para visualização a variação dos mercado no período desejado;
+<br>4. Sistema apresenta no dashboard, de maneiura gráfica e textual, a variação dos mercados no período selecionado, bem como da carteira;
 
 <h4>Screenshot</h4>
 
