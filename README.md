@@ -34,6 +34,7 @@ mostrando o desempenho em % e valores no período selecionado;
 <br><strong>RN2.</strong> Não podem existir 2 usuários cadastrados com o mesmo email;
 <br><strong>RN3.</strong> Utilizar webSocket para a atualização dos dados no dashboard, evitando requisições ao servidor e transferindo o processamento para a máquina do usuário, estabelecendo uma comunicação em 2 vias entre cliente e servidor;
 <br><strong>RN4.</strong> Os valores apresentados na fórmula ao final do dashboard são referentes ao desempenho da carteira do usuário e devem apresentar os valores proporcionais a alocação;
+<br><strong>RN5.</strong> Os webServices disponibilizados pelo sistema para integração com sistemas terceiros, devem possuir acesso restrito e sua liberação deve ser controlada, garantindo a segurança e confidencialidade das informações;
 
 
 <h3>Tecnologias propostas</h3>
